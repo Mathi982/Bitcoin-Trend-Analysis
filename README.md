@@ -21,10 +21,7 @@ This project is focused on analysing the historical trends of Bitcoin prices and
 
 ### Real-Time Data Analysis
 - **Live Data Feed:** Feature for real-time data fetching and analysis.
-
-### Educational Content
-- **Tutorial Section:** Documentation and tutorials on Bitcoin market analysis.
-
+  
 ### Additional Cryptocurrencies
 - **Multi-Cryptocurrency Support:** Extend analysis to other popular cryptocurrencies.
 
