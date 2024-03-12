@@ -6,7 +6,7 @@ This project is focused on analysing the historical trends of Bitcoin prices and
 - **Data Fetching:** Retrieves historical Bitcoin price data from the CoinGecko API.
 - **Data Processing:** Calculates a 30-day simple moving average for trend analysis.
 - **Visualization:** Generates plots for Bitcoin prices and SMA for easy visualization of trends.
-- **Linear Regression Analysis:** Utilizes a linear regression model for trend prediction.
+- **Linear Regression Analysis:** Uses a linear regression model for trend prediction.
 - **Future Trend Prediction:** Predicts future price trends of Bitcoin for a specified number of days.
 
 ## Possible Future Work
