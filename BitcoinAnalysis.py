@@ -24,8 +24,8 @@ def fetch_bitcoin_data_from_coingecko(start_date, end_date):
         response.raise_for_status()
 
 
-start_date = datetime.strptime("01-01-2022", "%d-%m-%Y")
-end_date = datetime.strptime("01-01-2023", "%d-%m-%Y")
+start_date = datetime.strptime("01-01-2023", "%d-%m-%Y")
+end_date = datetime.strptime("01-01-2025", "%d-%m-%Y")
 
 # Fetches  Bitcoin data for the specified time period
 bitcoin_data = fetch_bitcoin_data_from_coingecko(start_date, end_date)
